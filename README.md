@@ -25,3 +25,5 @@ Some of the things you can do to contribute to our curriculum include:
 
 ___
 Created by [Erik Trautman](http://www.github.com/eriktrautman)
+
+<!-- Just adding some comments to test the contribution workflow as assigned in: https://www.theodinproject.com/lessons/javascript-using-git-in-the-real-world -->
